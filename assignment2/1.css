@@ -1,0 +1,14 @@
+ /* Add a gray background color with some padding */
+  body {
+    font-family: lucida;
+    padding: 20px;
+    background: #eee8e8
+  }
+  
+  /* Header/Blog Title */
+  .header {
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(238, 241, 241);
+  }
